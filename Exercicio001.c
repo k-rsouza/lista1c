@@ -1,3 +1,11 @@
+/*
+ * Arquivo:    Exercicio001.c
+ * Autor:      Kaua Souza
+ * Finalidade: Resolve equacoes do 2o grau, lendo coeficientes a, b e c e
+ *             imprimindo o numero de raizes reais e cada uma das raizes reais.
+ * Data: 17 ago. 2026
+ */
+
 #include <stdio.h>
 #include <math.h>
 
